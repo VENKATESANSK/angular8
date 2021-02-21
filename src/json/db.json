@@ -1,0 +1,145 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+      "longDescription": "This is the product 1 description.The product is really kool!",
+      "imageUrl": "",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+      "longDescription": "This is the product 1 description.The product is really kool!",
+      "imageUrl": "",
+      "price": 299
+    },
+    {
+      "id": 3,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+      "longDescription": "This is the product 1 description.The product is really kool!",
+      "imageUrl": "",
+      "price": 299
+    },
+    {
+      "id": 4,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+      "longDescription": "This is the product 1 description.The product is really kool!",
+      "imageUrl": "",
+      "price": 299
+    },
+    {
+      "id": 5,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+      "longDescription": "This is the product 1 description.The product is really kool!",
+      "imageUrl": "",
+      "price": 299
+    },
+    {
+      "id": 6,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+      "longDescription": "This is the product 1 description.The product is really kool!",
+      "imageUrl": "",
+      "price": 1299
+    },
+    {
+      "id": 7,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+      "longDescription": "This is the product 1 description.The product is really kool!",
+      "imageUrl": "",
+      "price": 99
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 3,
+        "name": "Rube Cube",
+        "description": "This is the product 1 description.The product is really kool!",
+        "longDescription": "This is the product 1 description.The product is really kool!",
+        "imageUrl": "",
+        "price": 299
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rube Cube",
+        "description": "This is the product 1 description.The product is really kool!",
+        "longDescription": "This is the product 1 description.The product is really kool!",
+        "imageUrl": "",
+        "price": 299
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rube Cube",
+        "description": "This is the product 1 description.The product is really kool!",
+        "longDescription": "This is the product 1 description.The product is really kool!",
+        "imageUrl": "",
+        "price": 299
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rube Cube",
+        "description": "This is the product 1 description.The product is really kool!",
+        "longDescription": "This is the product 1 description.The product is really kool!",
+        "imageUrl": "",
+        "price": 299
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Rube Cube",
+        "description": "This is the product 1 description.The product is really kool!",
+        "longDescription": "This is the product 1 description.The product is really kool!",
+        "imageUrl": "",
+        "price": 299
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Rube Cube",
+        "description": "This is the product 1 description.The product is really kool!",
+        "longDescription": "This is the product 1 description.The product is really kool!",
+        "imageUrl": "",
+        "price": 1299
+      },
+      "id": 12
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.modal-body {
+  text-align: center;
+}
+
+
+.modal-body .card-img-top {
+    width: 200px;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}

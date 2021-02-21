@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+	  "longDescription": "This is the product 1 description.The product is really kool!",
+	  "imageUrl":"",
+	  "price":299
+    },
+	{
+      "id": 2,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+	  "longDescription": "This is the product 1 description.The product is really kool!",
+	  "imageUrl":"",
+	  "price":299
+    },
+	{
+      "id": 3,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+	  "longDescription": "This is the product 1 description.The product is really kool!",
+	  "imageUrl":"",
+	  "price":299
+    },{
+      "id": 4,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+	  "longDescription": "This is the product 1 description.The product is really kool!",
+	  "imageUrl":"",
+	  "price":299
+    },
+	{
+      "id": 5,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+	  "longDescription": "This is the product 1 description.The product is really kool!",
+	  "imageUrl":"",
+	  "price":299
+    },
+	{
+      "id": 6,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+	  "longDescription": "This is the product 1 description.The product is really kool!",
+	  "imageUrl":"",
+	  "price":1299
+    },
+	{
+      "id": 7,
+      "name": "Rube Cube",
+      "description": "This is the product 1 description.The product is really kool!",
+	  "longDescription": "This is the product 1 description.The product is really kool!",
+	  "imageUrl":"",
+	  "price":99
+    }
+  ],
+}
